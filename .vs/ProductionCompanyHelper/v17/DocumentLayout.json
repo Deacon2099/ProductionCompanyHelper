@@ -3,28 +3,96 @@
   "WorkspaceRootPath": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|c:\\programdata\\programmingprojects\\productioncompanyhelper\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|solutionrelative:global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|c:\\programdata\\programmingprojects\\productioncompanyhelper\\services\\interfaces\\imoduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|solutionrelative:services\\interfaces\\imoduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|c:\\programdata\\programmingprojects\\productioncompanyhelper\\services\\implementations\\searchhistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|solutionrelative:services\\implementations\\searchhistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|c:\\programdata\\programmingprojects\\productioncompanyhelper\\services\\implementations\\moduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|solutionrelative:services\\implementations\\moduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|c:\\programdata\\programmingprojects\\productioncompanyhelper\\services\\implementations\\cityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|solutionrelative:services\\implementations\\cityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|c:\\programdata\\programmingprojects\\productioncompanyhelper\\services\\interfaces\\isearchhistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|solutionrelative:services\\interfaces\\isearchhistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|c:\\programdata\\programmingprojects\\productioncompanyhelper\\services\\interfaces\\icityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|solutionrelative:services\\interfaces\\icityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|c:\\programdata\\programmingprojects\\productioncompanyhelper\\services\\implementations\\calculatorcostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|solutionrelative:services\\implementations\\calculatorcostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|c:\\programdata\\programmingprojects\\productioncompanyhelper\\modelsdto\\modulelistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|solutionrelative:modelsdto\\modulelistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|c:\\programdata\\programmingprojects\\productioncompanyhelper\\services\\implementations\\showresultservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|solutionrelative:services\\implementations\\showresultservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|c:\\programdata\\programmingprojects\\productioncompanyhelper\\models\\searchhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|solutionrelative:models\\searchhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|c:\\programdata\\programmingprojects\\productioncompanyhelper\\modelsdto\\resultcostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|solutionrelative:modelsdto\\resultcostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|c:\\programdata\\programmingprojects\\productioncompanyhelper\\modelsdto\\operationsuccessdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|solutionrelative:modelsdto\\operationsuccessdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|c:\\programdata\\programmingprojects\\productioncompanyhelper\\models\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|solutionrelative:models\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|c:\\programdata\\programmingprojects\\productioncompanyhelper\\services\\interfaces\\ishowresultservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|solutionrelative:services\\interfaces\\ishowresultservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|solutionrelative:models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|c:\\programdata\\programmingprojects\\productioncompanyhelper\\models\\calculatorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|solutionrelative:models\\calculatorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|c:\\programdata\\programmingprojects\\productioncompanyhelper\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|c:\\programdata\\programmingprojects\\productioncompanyhelper\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|solutionrelative:migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|c:\\programdata\\programmingprojects\\productioncompanyhelper\\migrations\\202406250926318_db_migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|c:\\programdata\\programmingprojects\\productioncompanyhelper\\services\\interfaces\\icalculatorcostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|solutionrelative:services\\interfaces\\icalculatorcostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|c:\\programdata\\programmingprojects\\productioncompanyhelper\\modelsdto\\operationerrordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|solutionrelative:modelsdto\\operationerrordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|c:\\programdata\\programmingprojects\\productioncompanyhelper\\modelsdto\\operationresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|solutionrelative:modelsdto\\operationresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\migrations\\202406250926318_db_migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|solutionrelative:migrations\\202406250926318_db_migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|c:\\programdata\\programmingprojects\\productioncompanyhelper\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|c:\\programdata\\programmingprojects\\productioncompanyhelper\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|solutionrelative:models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4851AEC9-7BE7-4722-BE18-C355E4D40D8E}|ProductionCompanyHelper.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,79 +107,300 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CalculatorContext.cs",
-              "DocumentMoniker": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\Models\\CalculatorContext.cs",
-              "RelativeDocumentMoniker": "Models\\CalculatorContext.cs",
-              "ToolTip": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\Models\\CalculatorContext.cs",
-              "RelativeToolTip": "Models\\CalculatorContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Global.asax.cs",
+              "ToolTip": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\Global.asax.cs",
+              "RelativeToolTip": "Global.asax.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T09:06:47.326Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "202406250926318_db_migration.cs",
-              "DocumentMoniker": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\Migrations\\202406250926318_db_migration.cs",
-              "RelativeDocumentMoniker": "Migrations\\202406250926318_db_migration.cs",
-              "ToolTip": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\Migrations\\202406250926318_db_migration.cs",
-              "RelativeToolTip": "Migrations\\202406250926318_db_migration.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T09:26:36.905Z",
+              "WhenOpened": "2024-06-25T11:25:05.48Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "SearchHistoryService.cs",
+              "DocumentMoniker": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\Services\\Implementations\\SearchHistoryService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\SearchHistoryService.cs",
+              "ToolTip": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\Services\\Implementations\\SearchHistoryService.cs",
+              "RelativeToolTip": "Services\\Implementations\\SearchHistoryService.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAIAwwEkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:17:29.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CalculatorCostService.cs",
+              "DocumentMoniker": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\Services\\Implementations\\CalculatorCostService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\CalculatorCostService.cs",
+              "ToolTip": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\Services\\Implementations\\CalculatorCostService.cs",
+              "RelativeToolTip": "Services\\Implementations\\CalculatorCostService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:17:10.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CityService.cs",
+              "DocumentMoniker": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\Services\\Implementations\\CityService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\CityService.cs",
+              "ToolTip": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\Services\\Implementations\\CityService.cs",
+              "RelativeToolTip": "Services\\Implementations\\CityService.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAA0wEgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:14:22.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModuleService.cs",
+              "DocumentMoniker": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\Services\\Implementations\\ModuleService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\ModuleService.cs",
+              "ToolTip": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\Services\\Implementations\\ModuleService.cs",
+              "RelativeToolTip": "Services\\Implementations\\ModuleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:17:22.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICityService.cs",
+              "DocumentMoniker": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\Services\\Interfaces\\ICityService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\ICityService.cs",
+              "ToolTip": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\Services\\Interfaces\\ICityService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\ICityService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:14:44.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISearchHistoryService.cs",
+              "DocumentMoniker": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\Services\\Interfaces\\ISearchHistoryService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\ISearchHistoryService.cs",
+              "ToolTip": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\Services\\Interfaces\\ISearchHistoryService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\ISearchHistoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:17:16.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IModuleService.cs",
+              "DocumentMoniker": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\Services\\Interfaces\\IModuleService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IModuleService.cs",
+              "ToolTip": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\Services\\Interfaces\\IModuleService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IModuleService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:17:13.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ModuleListDTO.cs",
+              "DocumentMoniker": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\ModelsDTO\\ModuleListDTO.cs",
+              "RelativeDocumentMoniker": "ModelsDTO\\ModuleListDTO.cs",
+              "ToolTip": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\ModelsDTO\\ModuleListDTO.cs",
+              "RelativeToolTip": "ModelsDTO\\ModuleListDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:15:21.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShowResultService.cs",
+              "DocumentMoniker": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\Services\\Implementations\\ShowResultService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\ShowResultService.cs",
+              "ToolTip": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\Services\\Implementations\\ShowResultService.cs",
+              "RelativeToolTip": "Services\\Implementations\\ShowResultService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:17:35.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SearchHistory.cs",
+              "DocumentMoniker": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\Models\\SearchHistory.cs",
+              "RelativeDocumentMoniker": "Models\\SearchHistory.cs",
+              "ToolTip": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\Models\\SearchHistory.cs",
+              "RelativeToolTip": "Models\\SearchHistory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:17:28.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResultCostDTO.cs",
+              "DocumentMoniker": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\ModelsDTO\\ResultCostDTO.cs",
+              "RelativeDocumentMoniker": "ModelsDTO\\ResultCostDTO.cs",
+              "ToolTip": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\ModelsDTO\\ResultCostDTO.cs",
+              "RelativeToolTip": "ModelsDTO\\ResultCostDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:17:26.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OperationSuccessDTO.cs",
+              "DocumentMoniker": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\ModelsDTO\\OperationSuccessDTO.cs",
+              "RelativeDocumentMoniker": "ModelsDTO\\OperationSuccessDTO.cs",
+              "ToolTip": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\ModelsDTO\\OperationSuccessDTO.cs",
+              "RelativeToolTip": "ModelsDTO\\OperationSuccessDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:17:25.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Module.cs",
+              "DocumentMoniker": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\Models\\Module.cs",
+              "RelativeDocumentMoniker": "Models\\Module.cs",
+              "ToolTip": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\Models\\Module.cs",
+              "RelativeToolTip": "Models\\Module.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:17:21.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IShowResultService.cs",
+              "DocumentMoniker": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\Services\\Interfaces\\IShowResultService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IShowResultService.cs",
+              "ToolTip": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\Services\\Interfaces\\IShowResultService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IShowResultService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:17:18.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OperationErrorDTO.cs",
+              "DocumentMoniker": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\ModelsDTO\\OperationErrorDTO.cs",
+              "RelativeDocumentMoniker": "ModelsDTO\\OperationErrorDTO.cs",
+              "ToolTip": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\ModelsDTO\\OperationErrorDTO.cs",
+              "RelativeToolTip": "ModelsDTO\\OperationErrorDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:16:03.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICalculatorCostService.cs",
+              "DocumentMoniker": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\Services\\Interfaces\\ICalculatorCostService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\ICalculatorCostService.cs",
+              "ToolTip": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\Services\\Interfaces\\ICalculatorCostService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\ICalculatorCostService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:15:13.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Configuration.cs",
               "DocumentMoniker": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\Migrations\\Configuration.cs",
               "RelativeDocumentMoniker": "Migrations\\Configuration.cs",
               "ToolTip": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\Migrations\\Configuration.cs",
               "RelativeToolTip": "Migrations\\Configuration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-25T09:25:56.272Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Models\\ErrorViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAVAAAA",
+              "DocumentIndex": 16,
+              "Title": "CalculatorContext.cs",
+              "DocumentMoniker": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\Models\\CalculatorContext.cs",
+              "RelativeDocumentMoniker": "Models\\CalculatorContext.cs",
+              "ToolTip": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\Models\\CalculatorContext.cs",
+              "RelativeToolTip": "Models\\CalculatorContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T09:21:55.458Z",
+              "WhenOpened": "2024-06-25T09:06:47.326Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\Web.config",
-              "RelativeDocumentMoniker": "Web.config",
-              "ToolTip": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\Web.config",
-              "RelativeToolTip": "Web.config",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAADQAAABNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-06-25T09:18:40.55Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "City.cs",
               "DocumentMoniker": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\Models\\City.cs",
               "RelativeDocumentMoniker": "Models\\City.cs",
               "ToolTip": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\Models\\City.cs",
               "RelativeToolTip": "Models\\City.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-25T09:06:47.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OperationResultDTO.cs",
+              "DocumentMoniker": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\ModelsDTO\\OperationResultDTO.cs",
+              "RelativeDocumentMoniker": "ModelsDTO\\OperationResultDTO.cs",
+              "ToolTip": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\ModelsDTO\\OperationResultDTO.cs",
+              "RelativeToolTip": "ModelsDTO\\OperationResultDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:16:04.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "202406250926318_db_migration.cs",
+              "DocumentMoniker": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\Migrations\\202406250926318_db_migration.cs",
+              "RelativeDocumentMoniker": "Migrations\\202406250926318_db_migration.cs",
+              "ToolTip": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\Migrations\\202406250926318_db_migration.cs",
+              "RelativeToolTip": "Migrations\\202406250926318_db_migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T09:26:36.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\ProgramData\\ProgrammingProjects\\ProductionCompanyHelper\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AQIAACgAAAAAAAAAAABhwDQAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-25T09:18:40.55Z",
               "EditorCaption": ""
             }
           ]

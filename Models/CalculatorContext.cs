@@ -1,6 +1,6 @@
 ﻿using System.Data.Entity;
 
-namespace ProductionProcessCompanion.Models
+namespace ProductionCompanyHelper.Models
 {
     public class CalculatorContext : DbContext
     {

@@ -1,4 +1,4 @@
-﻿namespace ProductionProcessCompanion.Models
+﻿namespace ProductionCompanyHelper.Models
 {
     public class Module
     {
